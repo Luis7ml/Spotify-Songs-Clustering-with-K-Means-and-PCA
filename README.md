@@ -55,13 +55,22 @@ The songs were successfully grouped into distinct clusters based on their audio 
 
 
 
-
 ## Project Structure
 
-
+```text
 ├── README.md
 ├── spotify_recommendation_kmeans.ipynb
 └── spotify_songs.csv
+```
+
+## Clusters Descriptions
+
+| Cluster | Description |
+|----------|------------|
+| 0 | Acoustic & Melancholic |
+| 1 | Energetic Pop |
+| 2 | Dance & Party Tracks |
+| 3 | Intense Instrumental |
 
 
 ## Author

@@ -75,4 +75,4 @@ The songs were successfully grouped into distinct clusters based on their audio 
 
 ## Author
 
-Luis
+Luis Santos
